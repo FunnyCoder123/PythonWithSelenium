@@ -1,0 +1,5 @@
+print(2*4, "Jabeer_Abubakar","Shaik")
+print(2*4, "Jabeer_Abubakar","Shaik")
+print(2*4, "Jabeer_Abubakar","Shaik")
+# print(file=".pdf")
+# print("Hello", sep "Abubakar", 12+29)
